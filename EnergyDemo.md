@@ -6,6 +6,7 @@ Junit service allows users to upload an android app and junit apk and have their
 
 # Example: 
 You have an app in Eclipse with a Junit test suite. Follow the steps:
+
      1) Run the Junit test suite.
 
     2) Find the project path by:
@@ -24,19 +25,19 @@ You have an app in Eclipse with a Junit test suite. Follow the steps:
 
       5) In the terminal run the command:
 
-    wget https://pizza.cs.ualberta.ca/gm/junit_service_client
+            wget https://pizza.cs.ualberta.ca/gm/junit_service_client
 
-   6) Now run the command in the terminal
+      6) Now run the command in the terminal
 
-    chmod +x junit_service_client
+            chmod +x junit_service_client
 
-    7) Now, run this command:
+       7) Now, run this command:
    
-    ./junit_service_client --batch <your Team Name > --schedule <PROJECT_PATH/bin/YOUR_APP.apk>    <TEST_PROJECT_PATH/bin/YOUR_APP.apk> 
+             ./junit_service_client --batch <your Team Name > --schedule <PROJECT_PATH/bin/YOUR_APP.apk>    <TEST_PROJECT_PATH/bin/YOUR_APP.apk> 
 
-    8) Write down the ID that it generates, you may need it later.
+     8) Write down the ID that it generates, you may need it later.
 
-    9) At the end of execution, you will be able to see graphs.
+     9) At the end of execution, you will be able to see graphs.
 
 
 It consists of three major parts:
