@@ -87,6 +87,8 @@ Troubleshooting
 2. You might be running the tool without having any Android Junit Tests.
 3. Check whether the Jnuit Project has the .apk file in the bin/ folder.
 
+In case of any issue, or help, contact me at **kaggarwa@ualberta.ca**
+
 
 
 
