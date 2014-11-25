@@ -1,3 +1,0 @@
-cd jar/\r
-java -cp tool.jar strace.callStrace\r
-cd ../\r
