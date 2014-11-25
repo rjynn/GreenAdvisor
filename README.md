@@ -99,9 +99,17 @@ CMPUT 301 LAB DEMO
 ------------------
 
 Please find the presentation [here](Green_Advisor_Lab_demo.pdf). 
+
 See the sample report [here](sample_report.html).
 
 
+CMPUT 301 Feedback Questionnaire
+--------------------------------
+
+For the Q2, submitting that report under the GreenAdvisor folder of your project repos would be good enough. 
+If you choose to do so, then just add the CommitID SHAs in the Q2 , no need to write the code snippet on the sheet you are submitting.
+
+If you want to download the Feedback_Questionnaire, its [here](Feedback_Questionnaire.docx)
 
 LICENSE
 -------
