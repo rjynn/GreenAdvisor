@@ -30,6 +30,7 @@ a) Green Advisor needs four paths to be set up in order to work. These are:
 	4) testCodeDir: This is the path to the directory containing your Android Junit tets code(i.e. where
 	your Jnuit test's AndroidManifest.xml is stored). It would be some where in your Github directory. 
 	Eg: appCodeDir= /cshome/kaggarwa/karan/lonelyTwitter/lonelyTwitterTests/
+	
 
 b) The system should have a valid Java installation and version >=*1.6*
 
@@ -47,6 +48,10 @@ Green Advisor directory.
 
         java -cp tool.jar strace.callStrace
 
+Alternatively for Steps 3 and 4, you can remain in GreenAdvisor directory, and execute:
+
+        sh run.sh
+        
 This will execute the Green Advisor that will run your Junit tests on the Application.
 If being run for the first time it will simply tell that it has no history of your App,
 and hence, will not be able to give any recommendation.
@@ -89,6 +94,12 @@ Troubleshooting
 
 In case of any issue, or help, contact me at **kaggarwa@ualberta.ca**
 
+
+CMPUT 301 LAB DEMO
+------------------
+
+Please find the presentation [here](Green_Advisor_Lab_demo.pdf). 
+See the sample report [here](sample_report.html).
 
 
 
