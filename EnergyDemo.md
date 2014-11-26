@@ -3,6 +3,7 @@
 [watch the demo video](https://archive.org/details/junit_greenminer)
 
 Junit service allows users to upload an android app and junit apk and have their tests run on greenminer, with their power consumption measured.
+This service is just for demonstration purposes, you don't need to run this for completing the Feedback questionnaire.
 
 # Example: 
 You have an app in Eclipse with a Junit test suite. Follow the steps:
