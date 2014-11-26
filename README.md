@@ -102,6 +102,8 @@ Please find the presentation [here](Green_Advisor_Lab_demo.pdf).
 
 See the sample report [here](sample_report.html).
 
+The Energy Consumption demo in the lab was just for demonstartion purpose, you don't need to run it for the feedback questionnaire.
+Only the GreenAdvisor tool runs are required to complete the Questionnaire.
 
 CMPUT 301 Feedback Questionnaire
 --------------------------------
