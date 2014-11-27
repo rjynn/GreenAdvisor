@@ -1,4 +1,4 @@
 adbPath = /usr/local/share/android-sdk-linux/platform-tools/adb
-gitDir = /cshome/kaggarwa/karan/lonelyTwitter/
-appCodeDir = /cshome/kaggarwa/karan/lonelyTwitter/lonelyTwitter/
-testCodeDir = /cshome/kaggarwa/karan/lonelyTwitter/lonelyTwitterTests/
+gitDir = /cshome/rdejesus/c301/newLONELY/lonelyTwitter
+appCodeDir = /cshome/rdejesus/c301/newLONELY/lonelyTwitter/lonelyTwitter
+testCodeDir = /cshome/rdejesus/c301/newLONELY/lonelyTwitter/lonelyTwitterTests
